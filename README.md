@@ -8,7 +8,7 @@ The current covid situation has brought the world to its knees, we have decided 
 - Given the API above, create a dashboard for confirmed covid cases.
 - It is important for you to use all of the information inside of the objects.
 - You may represent this data in anyway you see fit.
-- Please create a typehead search, the typehead search should filter by country name. A representation of this can be seen below:
+- Please create a typeahead search, the typeahead search should filter by country name. A representation of this can be seen below:
 
 
 
