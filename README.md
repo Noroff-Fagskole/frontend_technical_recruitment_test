@@ -3,7 +3,7 @@
 # Noroff FEU Teacher Application Test
 
 ## Brief
-The current covid situation has brought the world to its knees, we have decided to use our skills in technology to help the world.
+The current covid situation has brought the world to its knees, we have decided to use our skills in technology to help out.
 - https://covid19.mathdro.id/api/recovered
 - Given the API above, create a dashboard for confirmed covid cases.
 - It is important for you to use all of the information inside of the objects.
@@ -23,7 +23,7 @@ The current covid situation has brought the world to its knees, we have decided 
 
 ## Requirements
 - You must use React.js.
-- You must use redux + thunk.
+- You must use redux + thunk(We are aware that it is a small application but we would like to see your skillset in Redux).
 - All api calls should be made in Redux thunk.
 - You may use a CSS Framework.
 - You should use any **one** of the following: SCSS, LESS or CSS in JS.
