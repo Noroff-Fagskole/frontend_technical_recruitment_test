@@ -23,7 +23,7 @@ The current covid situation has brought the world to its knees, we have decided 
 
 ## Requirements
 - You must use React.js.
-- You must use redux + thunk(We are aware that it is a small application but we would like to see your skillset in Redux).
+- You must use redux + thunk (We are aware that it is a small application but we would like to see your skillset in Redux).
 - All api calls should be made in Redux thunk.
 - You may use a CSS Framework.
 - You should use any **one** of the following: SCSS, LESS or CSS in JS.
